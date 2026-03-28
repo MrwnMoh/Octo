@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Octo\\Octo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7AE86CE-6380-4E4C-A13F-AB5F68B62C18}|Octo.csproj|E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Octo\\Octo\\frmmaingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B7AE86CE-6380-4E4C-A13F-AB5F68B62C18}|Octo.csproj|e:\\marwan\\my projects\\c\u002B\u002B\\github\\octo\\octo\\frmmaingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B7AE86CE-6380-4E4C-A13F-AB5F68B62C18}|Octo.csproj|solutionrelative:frmmaingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7AE86CE-6380-4E4C-A13F-AB5F68B62C18}|Octo.csproj|e:\\marwan\\my projects\\c\u002B\u002B\\github\\octo\\octo\\frmmaingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7AE86CE-6380-4E4C-A13F-AB5F68B62C18}|Octo.csproj|E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Octo\\Octo\\frmmaingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7AE86CE-6380-4E4C-A13F-AB5F68B62C18}|Octo.csproj|solutionrelative:frmmaingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -104,8 +104,7 @@
               "RelativeToolTip": "frmMainGame.cs",
               "ViewState": "AgIAAIgEAAAAAAAAAAA3wLwEAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-23T21:18:34.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T21:18:34.664Z"
             }
           ]
         }
