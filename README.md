@@ -93,6 +93,13 @@ The project showcases advanced **Object-Oriented Programming (OOP)**, custom **A
 * **Event-Driven Programming** (Timers & Custom Inputs)
 * **Resource Management** (Custom Fonts, Gfx, and Sounds)
 
+
+<p align="center">
+  <a href="https://github.com/MrwnMoh/Octo/releases/download/v1.0/Octo_Game_V1.0.zip">
+    <img src="https://custom-icon-badges.demolab.com/badge/Download-Octo%20Game%20v1.0-blue?style=for-the-badge&logo=download&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 # 👨‍💻 Author
