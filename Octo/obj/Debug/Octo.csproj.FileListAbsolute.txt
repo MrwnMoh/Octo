@@ -1,0 +1,13 @@
+E:\Marwan\My projects\c++\Github\Octo\Octo\bin\Debug\Octo.exe.config
+E:\Marwan\My projects\c++\Github\Octo\Octo\bin\Debug\Octo.exe
+E:\Marwan\My projects\c++\Github\Octo\Octo\bin\Debug\Octo.pdb
+E:\Marwan\My projects\c++\Github\Octo\Octo\obj\Debug\Octo.csproj.AssemblyReference.cache
+E:\Marwan\My projects\c++\Github\Octo\Octo\obj\Debug\Octo.frmPlay.resources
+E:\Marwan\My projects\c++\Github\Octo\Octo\obj\Debug\Octo.frmSplash.resources
+E:\Marwan\My projects\c++\Github\Octo\Octo\obj\Debug\Octo.Properties.Resources.resources
+E:\Marwan\My projects\c++\Github\Octo\Octo\obj\Debug\Octo.csproj.GenerateResource.cache
+E:\Marwan\My projects\c++\Github\Octo\Octo\obj\Debug\Octo.csproj.CoreCompileInputs.cache
+E:\Marwan\My projects\c++\Github\Octo\Octo\obj\Debug\Octo.exe
+E:\Marwan\My projects\c++\Github\Octo\Octo\obj\Debug\Octo.pdb
+E:\Marwan\My projects\c++\Github\Octo\Octo\obj\Debug\Octo.exe.config
+E:\Marwan\My projects\c++\Github\Octo\Octo\obj\Debug\Octo.frmGameInfo.resources

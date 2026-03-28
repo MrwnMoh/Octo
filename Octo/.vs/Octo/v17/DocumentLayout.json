@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Octo\\Octo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AE86CE-6380-4E4C-A13F-AB5F68B62C18}|Octo.csproj|E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Octo\\Octo\\frmmaingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7AE86CE-6380-4E4C-A13F-AB5F68B62C18}|Octo.csproj|solutionrelative:frmmaingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AE86CE-6380-4E4C-A13F-AB5F68B62C18}|Octo.csproj|e:\\marwan\\my projects\\c\u002B\u002B\\github\\octo\\octo\\frmmaingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AE86CE-6380-4E4C-A13F-AB5F68B62C18}|Octo.csproj|solutionrelative:frmmaingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AE86CE-6380-4E4C-A13F-AB5F68B62C18}|Octo.csproj|E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Octo\\Octo\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7AE86CE-6380-4E4C-A13F-AB5F68B62C18}|Octo.csproj|solutionrelative:frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AE86CE-6380-4E4C-A13F-AB5F68B62C18}|Octo.csproj|E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Octo\\Octo\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AE86CE-6380-4E4C-A13F-AB5F68B62C18}|Octo.csproj|solutionrelative:frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AE86CE-6380-4E4C-A13F-AB5F68B62C18}|Octo.csproj|E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Octo\\Octo\\frmgameinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7AE86CE-6380-4E4C-A13F-AB5F68B62C18}|Octo.csproj|solutionrelative:frmgameinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AE86CE-6380-4E4C-A13F-AB5F68B62C18}|Octo.csproj|E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Octo\\Octo\\frmgameinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AE86CE-6380-4E4C-A13F-AB5F68B62C18}|Octo.csproj|solutionrelative:frmgameinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmGameInfo.cs",
+              "DocumentMoniker": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Octo\\Octo\\frmGameInfo.cs",
+              "RelativeDocumentMoniker": "frmGameInfo.cs",
+              "ToolTip": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Octo\\Octo\\frmGameInfo.cs",
+              "RelativeToolTip": "frmGameInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T23:13:26.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmGameInfo.cs [Design]",
+              "DocumentMoniker": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Octo\\Octo\\frmGameInfo.cs",
+              "RelativeDocumentMoniker": "frmGameInfo.cs",
+              "ToolTip": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Octo\\Octo\\frmGameInfo.cs [Design]",
+              "RelativeToolTip": "frmGameInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T23:09:23.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmSplash.cs",
+              "DocumentMoniker": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Octo\\Octo\\frmSplash.cs",
+              "RelativeDocumentMoniker": "frmSplash.cs",
+              "ToolTip": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Octo\\Octo\\frmSplash.cs",
+              "RelativeToolTip": "frmSplash.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T17:29:25.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmSplash.cs [Design]",
+              "DocumentMoniker": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Octo\\Octo\\frmSplash.cs",
+              "RelativeDocumentMoniker": "frmSplash.cs",
+              "ToolTip": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Octo\\Octo\\frmSplash.cs [Design]",
+              "RelativeToolTip": "frmSplash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T16:46:56.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMainGame.cs [Design]",
+              "DocumentMoniker": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Octo\\Octo\\frmMainGame.cs",
+              "RelativeDocumentMoniker": "frmMainGame.cs",
+              "ToolTip": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Octo\\Octo\\frmMainGame.cs [Design]",
+              "RelativeToolTip": "frmMainGame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T20:12:22.193Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMainGame.cs",
+              "DocumentMoniker": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Octo\\Octo\\frmMainGame.cs",
+              "RelativeDocumentMoniker": "frmMainGame.cs",
+              "ToolTip": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Octo\\Octo\\frmMainGame.cs",
+              "RelativeToolTip": "frmMainGame.cs",
+              "ViewState": "AgIAAIgEAAAAAAAAAAA3wLwEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T21:18:34.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
